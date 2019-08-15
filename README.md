@@ -1,1 +1,1 @@
-# -fiz-geoserver-types
+# geoserver-types
