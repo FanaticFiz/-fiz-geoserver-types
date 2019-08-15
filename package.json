@@ -1,0 +1,23 @@
+{
+  "name": "@fiz/geoserver-types",
+  "version": "0.0.1",
+  "description": "TypeScript definitions for geoserver API",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FanaticFiz/geoserver-types.git"
+  },
+  "keywords": [
+    "geoserver",
+    "types"
+  ],
+  "author": "Denis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FanaticFiz/geoserver-types/issues"
+  },
+  "homepage": "https://github.com/FanaticFiz/geoserver-types#readme"
+}
