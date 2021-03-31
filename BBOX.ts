@@ -5,5 +5,5 @@ export interface BBOX {
   miny: number;
   maxy: number;
 
-  crs: string;
+  crs: string | { '@class': string, $: string };
 }
