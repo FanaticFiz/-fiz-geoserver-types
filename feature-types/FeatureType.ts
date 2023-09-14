@@ -1,5 +1,5 @@
 import {BBOX} from "../BBOX";
-import {Attribute} from "../Attribute";
+import {Attributes} from "../Attribute";
 import {NameHrefProjection} from "../projections";
 
 export interface FeatureType {
@@ -63,5 +63,5 @@ export interface FeatureType {
   // Tolerance used to linearize this feature type, as an absolute value expressed in the geometries own CRS
   linearizationTolerance: number;
 
-  attributes: Attribute[];
+  attributes: Attributes;
 }

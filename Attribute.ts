@@ -1,3 +1,7 @@
+export interface Attributes {
+  attribute: Attribute[];
+}
+
 export interface Attribute {
   name: string;
   minOccurs: number;
